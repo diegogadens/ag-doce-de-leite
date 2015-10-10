@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=tamanhoPopula\u00E7\u00E3o\ taxaCross\ taxaMuta\u00E7\u00E3o\ numGera\u00E7\u00F5es
+comment0.target=Principal(int,\ double,\ double,\ int)
+comment1.target=void\ geraPopula\u00E7\u00E3oInicial()
+comment10.target=int\ randLeite()
+comment11.target=int\ randA\u00E7\u00FAcar()
+comment12.target=double\ randManteiga()
+comment13.target=double\ randAmido()
+comment14.target=int\ randTempo1()
+comment15.target=int\ randTempo2()
+comment2.target=void\ pr\u00F3ximaGera\u00E7\u00E3o()
+comment3.params=z
+comment3.target=void\ crossover(int)
+comment4.params=z
+comment4.target=void\ muta\u00E7\u00E3o(int)
+comment5.target=void\ ordena()
+comment6.target=void\ imprime()
+comment7.target=void\ avaliaPopula\u00E7\u00E3o()
+comment8.target=void\ buscaLocal()
+comment9.params=perturbado
+comment9.target=boolean\ perturba\u00E7\u00E3o(int)
+numComments=16
